@@ -1,0 +1,150 @@
+2024-10-10 10:30:32,093:INFO:Cargando datos desde data/data.xlsx
+2024-10-10 10:30:35,903:INFO:Dividiendo datos en conjuntos de entrenamiento y prueba
+2024-10-10 10:30:35,920:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-10 10:30:35,921:INFO:Iniciando entrenamiento del modelo
+2024-10-10 10:33:18,443:INFO:Entrenamiento completado
+2024-10-10 10:33:18,810:INFO:Modelo guardado en models/text_classification_pipeline_20241010_103318.pkl
+2024-10-10 10:33:18,810:INFO:Evaluando el modelo
+2024-10-10 10:44:48,177:INFO:Modelo cargado: text_classification_pipeline_20241010_103318.pkl
+2024-10-10 11:16:59,691:INFO:Modelo cargado: text_classification_pipeline_20241010_103318.pkl
+2024-10-10 11:17:00,223:INFO:Solicitud de predicción recibida
+2024-10-10 11:46:22,452:INFO:Modelo cargado: text_classification_pipeline_20241010_103318.pkl
+2024-10-10 11:46:51,487:INFO:Cargando datos desde data/data.xlsx
+2024-10-10 11:49:05,358:INFO:Cargando datos desde data/data.xlsx
+2024-10-10 11:49:07,177:INFO:Dividiendo datos en conjuntos de entrenamiento y prueba
+2024-10-10 11:49:07,179:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-10 11:49:07,179:INFO:Iniciando entrenamiento del modelo
+2024-10-10 11:50:24,435:INFO:Entrenamiento completado
+2024-10-10 11:50:24,603:INFO:Modelo guardado en models/text_classification_pipeline_20241010_115024.pkl
+2024-10-10 11:50:24,603:INFO:Evaluando el modelo
+2024-10-10 11:51:14,990:INFO:Modelo cargado: text_classification_pipeline_20241010_115024.pkl
+2024-10-10 11:51:30,555:INFO:Solicitud de predicción recibida
+2024-10-11 15:01:58,855:INFO:Cargando datos desde data/data.xlsx
+2024-10-11 15:02:00,226:INFO:Dividiendo datos en conjuntos de entrenamiento y prueba
+2024-10-11 15:02:00,240:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-11 15:02:00,240:INFO:Iniciando entrenamiento del modelo
+2024-10-11 15:03:37,210:INFO:Entrenamiento completado
+2024-10-11 15:03:37,394:INFO:Modelo guardado en models/text_classification_pipeline_20241011_150337.pkl
+2024-10-11 15:03:37,394:INFO:Evaluando el modelo
+2024-10-11 15:04:44,420:INFO:Modelo cargado: text_classification_pipeline_20241011_150337.pkl
+2024-10-11 15:06:07,604:INFO:Solicitud de predicción recibida
+2024-10-11 15:58:58,494:INFO:Modelo cargado: text_classification_pipeline_20241011_150337.pkl
+2024-10-11 15:59:24,126:INFO:Solicitud de predicción recibida
+2024-10-11 16:13:13,006:INFO:Solicitud de reentrenamiento recibida
+2024-10-11 16:13:13,007:INFO:Cargando datos desde data/data.xlsx
+2024-10-11 16:13:14,105:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-11 16:15:39,648:INFO:Modelo guardado en models/text_classification_pipeline_20241011_161539.pkl
+2024-10-11 16:15:39,651:INFO:Modelo reentrenado y guardado exitosamente
+2024-10-12 08:36:03,130:INFO:Modelo cargado: text_classification_pipeline_20241011_161539.pkl
+2024-10-12 08:45:46,989:INFO:Modelo cargado: text_classification_pipeline_20241011_161539.pkl
+2024-10-12 08:46:30,088:INFO:Modelo cargado: text_classification_pipeline_20241011_161539.pkl
+2024-10-12 08:46:38,377:INFO:Solicitud de predicción recibida
+2024-10-12 08:49:56,458:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 08:49:56,459:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 08:49:58,536:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 08:51:52,383:INFO:Modelo guardado en models/text_classification_pipeline_20241012_085152.pkl
+2024-10-12 08:51:52,384:INFO:Modelo reentrenado y guardado exitosamente
+2024-10-12 08:52:10,212:INFO:Solicitud de predicción recibida
+2024-10-12 11:42:27,808:INFO:Modelo cargado: text_classification_pipeline_20241012_085152.pkl
+2024-10-12 11:42:32,292:INFO:Solicitud de predicción recibida
+2024-10-12 12:26:33,452:INFO:Modelo cargado: text_classification_pipeline_20241012_085152.pkl
+2024-10-12 12:28:34,065:INFO:Solicitud de predicción recibida
+2024-10-12 12:29:11,526:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 12:29:11,526:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 12:29:12,721:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 12:32:25,835:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 12:32:25,838:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 12:32:26,897:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 12:35:07,901:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 12:35:07,902:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 12:35:08,583:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 12:37:47,564:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 12:37:48,555:INFO:Dividiendo datos en conjuntos de entrenamiento y prueba
+2024-10-12 12:37:48,558:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 12:37:48,558:INFO:Iniciando entrenamiento del modelo
+2024-10-12 12:39:19,209:INFO:Entrenamiento completado
+2024-10-12 12:39:19,407:INFO:Modelo guardado en models/text_classification_pipeline_20241012_123919.pkl
+2024-10-12 12:39:19,407:INFO:Evaluando el modelo
+2024-10-12 12:40:01,496:INFO:Modelo cargado: text_classification_pipeline_20241012_123919.pkl
+2024-10-12 12:41:07,468:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 12:41:07,470:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 12:41:08,480:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 12:51:34,444:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 12:51:35,938:INFO:Dividiendo datos en conjuntos de entrenamiento y prueba
+2024-10-12 12:51:35,946:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 12:51:35,946:INFO:Iniciando entrenamiento del modelo
+2024-10-12 12:53:07,038:INFO:Entrenamiento completado
+2024-10-12 12:53:07,222:INFO:Modelo guardado en models/text_classification_pipeline_20241012_125307.pkl
+2024-10-12 12:53:07,222:INFO:Evaluando el modelo
+2024-10-12 12:54:24,293:INFO:Modelo cargado: text_classification_pipeline_20241012_125307.pkl
+2024-10-12 12:54:40,995:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 12:54:40,996:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 12:54:42,078:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 12:56:41,349:INFO:Modelo guardado en models/text_classification_pipeline_20241012_125641.pkl
+2024-10-12 12:56:41,352:INFO:Modelo reentrenado y guardado exitosamente
+2024-10-12 12:56:46,594:INFO:Solicitud de predicción recibida
+2024-10-12 12:57:03,781:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 12:57:03,782:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 12:57:04,098:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 12:57:51,772:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 12:57:51,774:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 12:57:52,127:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 12:58:47,193:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 12:58:47,194:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 12:58:47,671:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 13:01:22,799:INFO:Modelo cargado: text_classification_pipeline_20241012_125641.pkl
+2024-10-12 13:01:43,355:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 13:01:43,356:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 13:01:44,298:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 13:03:41,023:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 13:03:41,024:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 13:03:41,454:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 13:05:49,884:INFO:Modelo guardado en models/text_classification_pipeline_20241012_130549.pkl
+2024-10-12 13:05:49,884:INFO:Modelo reentrenado y guardado exitosamente
+2024-10-12 13:06:29,360:INFO:Modelo cargado: text_classification_pipeline_20241012_130549.pkl
+2024-10-12 13:06:33,515:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 13:06:33,515:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 13:06:34,506:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 13:08:27,249:INFO:Modelo guardado en models/text_classification_pipeline_20241012_130827.pkl
+2024-10-12 13:08:27,249:INFO:Modelo reentrenado y guardado exitosamente
+2024-10-12 13:10:48,901:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 13:10:48,901:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 13:10:49,245:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 13:13:41,059:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 13:13:41,059:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 13:13:41,529:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 13:15:39,125:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 13:15:39,125:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 13:15:39,459:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 13:17:43,340:INFO:Modelo guardado en models/text_classification_pipeline_20241012_131743.pkl
+2024-10-12 13:17:43,341:INFO:Modelo reentrenado y guardado exitosamente
+2024-10-12 13:23:06,625:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 13:23:06,631:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 13:23:06,994:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 13:24:58,636:INFO:Modelo guardado en models/text_classification_pipeline_20241012_132458.pkl
+2024-10-12 13:24:58,637:INFO:Modelo reentrenado y guardado exitosamente
+2024-10-12 13:26:03,627:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 13:26:03,633:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 13:26:03,980:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 13:27:49,093:INFO:Modelo guardado en models/text_classification_pipeline_20241012_132748.pkl
+2024-10-12 13:27:49,095:INFO:Modelo reentrenado y guardado exitosamente
+2024-10-12 16:31:46,668:INFO:Modelo cargado: text_classification_pipeline_20241012_132748.pkl
+2024-10-12 16:34:26,521:INFO:Modelo cargado: text_classification_pipeline_20241012_132748.pkl
+2024-10-12 16:37:59,622:INFO:Solicitud de predicción recibida
+2024-10-12 17:34:47,417:INFO:Modelo cargado: text_classification_pipeline_20241012_132748.pkl
+2024-10-12 17:43:11,416:INFO:Solicitud de predicción recibida
+2024-10-12 17:43:50,691:INFO:Solicitud de predicción recibida
+2024-10-12 17:55:10,125:INFO:Solicitud de predicción recibida
+2024-10-12 17:56:00,220:INFO:Solicitud de predicción recibida
+2024-10-12 17:57:37,802:INFO:Solicitud de predicción recibida
+2024-10-12 18:40:34,919:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 18:40:34,936:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 18:40:37,980:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 18:43:11,040:INFO:Solicitud de reentrenamiento recibida
+2024-10-12 18:43:11,060:INFO:Cargando datos desde data/data.xlsx
+2024-10-12 18:43:12,774:INFO:Creando el pipeline de procesamiento y clasificación
+2024-10-12 18:49:07,300:INFO:Modelo guardado en models/text_classification_pipeline_20241012_184906.pkl
+2024-10-12 18:49:07,301:INFO:Modelo reentrenado y guardado exitosamente
+2024-10-12 18:50:37,270:INFO:Solicitud de predicción recibida
+2024-10-12 19:07:22,553:INFO:Modelo cargado: text_classification_pipeline_20241012_184906.pkl
+2024-10-12 19:07:43,901:INFO:Solicitud de predicción recibida
